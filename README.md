@@ -1,2 +1,2 @@
 # Data-Mining
-Working with the Pandas library on csv files.
+Each sub-folder has its own requirements.
